@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simpleApi", "simpleApi\simpleApi.csproj", "{40E158E3-2C2E-4BD5-AE69-C570F3943B0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConnection", "DbConnection\DbConnection.csproj", "{58E105B9-36DA-418B-BBEA-9058A83A4B82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40E158E3-2C2E-4BD5-AE69-C570F3943B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E158E3-2C2E-4BD5-AE69-C570F3943B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E158E3-2C2E-4BD5-AE69-C570F3943B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E158E3-2C2E-4BD5-AE69-C570F3943B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E105B9-36DA-418B-BBEA-9058A83A4B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E105B9-36DA-418B-BBEA-9058A83A4B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E105B9-36DA-418B-BBEA-9058A83A4B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E105B9-36DA-418B-BBEA-9058A83A4B82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {308DAC4D-1463-4977-9298-AD434E75C7CE}
+	EndGlobalSection
+EndGlobal

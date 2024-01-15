@@ -1,0 +1,12 @@
+C:\Users\hegde\Documents\My Web Sites\AspProjs\simpleApi\DbConnection\bin\Debug\DbConnection.dll.config
+C:\Users\hegde\Documents\My Web Sites\AspProjs\simpleApi\DbConnection\bin\Debug\DbConnection.dll
+C:\Users\hegde\Documents\My Web Sites\AspProjs\simpleApi\DbConnection\bin\Debug\DbConnection.pdb
+C:\Users\hegde\Documents\My Web Sites\AspProjs\simpleApi\DbConnection\bin\Debug\EntityFramework.dll
+C:\Users\hegde\Documents\My Web Sites\AspProjs\simpleApi\DbConnection\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hegde\Documents\My Web Sites\AspProjs\simpleApi\DbConnection\bin\Debug\EntityFramework.xml
+C:\Users\hegde\Documents\My Web Sites\AspProjs\simpleApi\DbConnection\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hegde\Documents\My Web Sites\AspProjs\simpleApi\DbConnection\obj\Debug\DbConnection.csproj.AssemblyReference.cache
+C:\Users\hegde\Documents\My Web Sites\AspProjs\simpleApi\DbConnection\obj\Debug\DbConnection.csproj.CoreCompileInputs.cache
+C:\Users\hegde\Documents\My Web Sites\AspProjs\simpleApi\DbConnection\obj\Debug\DbConnection.csproj.CopyComplete
+C:\Users\hegde\Documents\My Web Sites\AspProjs\simpleApi\DbConnection\obj\Debug\DbConnection.dll
+C:\Users\hegde\Documents\My Web Sites\AspProjs\simpleApi\DbConnection\obj\Debug\DbConnection.pdb
